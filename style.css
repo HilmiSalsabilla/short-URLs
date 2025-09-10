@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: center;
+}
+
+.margin {
+    margin-top: 200px;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
