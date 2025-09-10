@@ -40,7 +40,8 @@
         <div class="container-fluid">
             <div class="row gx-4 gx-lg-5 justify-content-center">
                 <div class="col-md-10 col-lg-8">
-                    <form class="card p-4 margin" method="POST" action="index.php">
+                    <h3 class="text-center py-4">Simple URL Shortener</h3>
+                    <form class="card" method="POST" action="index.php">
                         <div class="input-group">
                             <input type="text" name="url" class="form-control" placeholder="Enter your URL">
                             <div class="input-group-append">
@@ -55,7 +56,7 @@
            </div>
         </div>
 
-        <div class="container-fluid">
+        <div class="container-fluid mb-4">
             <div class="row gx-4 gx-lg-5 justify-content-center">
                 <div class="col-md-10 col-lg-8">
                     <table class="table table-bordered mt-4 text-center" id="url-table">

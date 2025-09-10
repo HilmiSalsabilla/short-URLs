@@ -5,7 +5,7 @@ body {
 }
 
 .margin {
-    margin-top: 200px;
+    margin-top: flex;
 }
 
 .table td, .table th {
